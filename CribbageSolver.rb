@@ -1,10 +1,4 @@
-class Perm
 
-	def initialize(card_vals)
-		@vals = card_vals
-	end
-
-end
 
 print "Cribbage Solver\n"
 
